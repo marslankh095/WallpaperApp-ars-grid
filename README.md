@@ -1,6 +1,4 @@
-# SimpleWallpaperApp - Android
-This is a simple demo wallpaper 🏞️ app which contains wallpaper links 🔗 (json file) in assets 📂 folder.
-
+ 
 - No Server 🗃️ Required
 - Admob 💵 (Native, Banner, Interstitial, Rewarded) Ad
 - Download Wallpaper ⬇️
@@ -32,12 +30,4 @@ This is a simple demo wallpaper 🏞️ app which contains wallpaper links 🔗 
     <img src="https://user-images.githubusercontent.com/55009858/208888083-7cb782f7-f355-411a-9aa3-77693038a0d8.png" alt="Interstitial Ad" width="220">
     <img src="https://user-images.githubusercontent.com/55009858/208889947-06b108fa-73d9-47e4-9cbe-447259cabf36.png" alt="Theme Settings" width="220">
     <img src="https://user-images.githubusercontent.com/55009858/208888997-67b3d3aa-860d-40cc-ae9d-88bb14a5600d.png" alt="Light Theme" width="220">
-</p>
-
-## Support
-<p><a href="https://www.buymeacoffee.com/shubhamgupta16"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shubhamgupta16" /></a></p>
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-If you like❤️ this project, don't forget star⭐ the repository.
+</p> 
